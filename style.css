@@ -1,0 +1,8 @@
+.btn-black{
+    background-color: rgb(128, 111, 143);
+    outline-color: rgb(128, 111, 143);
+}
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
